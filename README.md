@@ -12,8 +12,8 @@
 
 Hi! I'm Aradhya Chakrabarti.
 
-- 🔭 I'm currently working my way through an undergraduate engineering course in CSE.
-- 🌱 I'm currently learning Functional Programming (Standard ML) along with C/C++/Python/Java. 
+- 🔭 Working my way through an undergraduate engineering course in CSE.
+- 🌱 I'm currently learning Functional Programming (Standard ML) along with C++/Scheme/Java. 
 - ⚡ I like to build softwares conventionally targeted towards desktop PCs on Android (hence my app XHaskell).
 
 ---
